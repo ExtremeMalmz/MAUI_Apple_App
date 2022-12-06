@@ -4,6 +4,16 @@
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net7.0-windows10.0.19041.0</ActiveDebugFramework>
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
+    <SelectedPlatformGroup>LocalDevice</SelectedPlatformGroup>
+    <DeveloperId>Z7B8223K6M</DeveloperId>
+    <DevelopmentTeamId>Z7B8223K6M</DevelopmentTeamId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
+    <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
+    <PlatformTarget>arm64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-android|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
     <MauiXaml Update="Page1.xaml">

@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "8c81bd22-e00d-47bc-b305-19f31e4633c8")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "Information Design App")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "ID-IA App")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ID-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

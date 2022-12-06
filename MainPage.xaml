@@ -3,6 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.MainPage">
 
+    <!--
+    This is the main page of the application. There is a central image and three buttons currently
+    -->
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"

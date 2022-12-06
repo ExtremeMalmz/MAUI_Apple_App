@@ -1,15 +1,3 @@
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.csproj.AssemblyReference.cache
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.exe
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.deps.json
@@ -232,6 +220,18 @@ C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.1904
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.csproj.AssemblyReference.cache
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
@@ -241,6 +241,7 @@ C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.1904
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\am3ppl.scale-100.jpg
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
@@ -319,4 +320,3 @@ C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.1904
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\am3ppl.scale-100.jpg

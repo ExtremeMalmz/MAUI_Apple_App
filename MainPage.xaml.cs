@@ -33,10 +33,12 @@ public partial class MainPage : ContentPage
 		/// Click the first button and we go to the Page1
 		/// </summary>
 
+		
 		Button1.Text = "clicked";
 
-        App.Current.MainPage = new NavigationPage(new Page1());
-
+		//change the page that is displayed
+		//App.Current.MainPage = new NavigationPage(new Page1());
+		Navigation.PushAsync(new Page1());
     }
 }
 
