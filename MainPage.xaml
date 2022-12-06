@@ -35,12 +35,13 @@
                 />
             -->
 
-            <StackLayout Margin="10,0,0,0" HorizontalOptions="Center">
+            <StackLayout Margin="10,10,20,20"  HorizontalOptions="Center" >
                 <StackLayout Orientation="Horizontal">
                     <Button 
                         x:Name="Button1"
                         Text="Button1 lol"  
-                        HorizontalOptions="Center" 
+                        HorizontalOptions="Center"
+                        BorderWidth="10"
                         Clicked="OnButton1Clicked"
                         />
                     
@@ -48,12 +49,16 @@
                         x:Name="Button2"
                         Text="Button2 lol" 
                         HorizontalOptions="Center" 
+                        BorderWidth="10"
+                        Clicked="OnButton2Clicked"
                         />
                     
                     <Button 
                         x:Name="Button3"
                         Text="Button3 lol"  
                         HorizontalOptions="Center"
+                        BorderWidth="10"
+                        Clicked="OnButton3Clicked"
                         />
                     
                 </StackLayout>

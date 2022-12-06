@@ -1,4 +1,6 @@
-﻿namespace ID_App;
+﻿using ID_App.Pages;
+
+namespace ID_App;
 
 public partial class MainPage : ContentPage
 {
@@ -32,7 +34,6 @@ public partial class MainPage : ContentPage
 		/// <summary>
 		/// Click the first button and we go to the Page1
 		/// </summary>
-
 		
 		Button1.Text = "clicked";
 
@@ -40,5 +41,28 @@ public partial class MainPage : ContentPage
 		//App.Current.MainPage = new NavigationPage(new Page1());
 		Navigation.PushAsync(new Page1());
     }
+
+    private void OnButton2Clicked(object sender, EventArgs e)
+    {
+		/// <summary>
+		/// Click the first button and we go to the Page1
+		/// </summary>
+
+		Button2.TextColor = Colors.Red;
+
+        //change the page that is displayed
+        Navigation.PushAsync(new Page2());
+    }
+
+    private void OnButton3Clicked(object sender, EventArgs e)
+	{
+        /// <summary>
+        /// Click the first button and we go to the Page1
+        /// </summary>
+
+        //change the page that is displayed
+        Navigation.PushAsync(new Page3());
+    }
+
 }
 

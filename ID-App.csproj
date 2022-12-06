@@ -58,7 +58,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Page1.xaml">
+	  <MauiXaml Update="Pages\Page1.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Page2.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Page3.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
