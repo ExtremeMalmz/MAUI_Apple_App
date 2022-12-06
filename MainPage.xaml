@@ -21,13 +21,6 @@
                 FontSize="32"
                 HorizontalOptions="Center" />
 
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
             <!--
             <Button
                 x:Name="CounterBtn"
@@ -41,8 +34,25 @@
 
             <StackLayout Margin="10,0,0,0" HorizontalOptions="Center">
                 <StackLayout Orientation="Horizontal">
-                    <Button Text="Add items"  HorizontalOptions="Center" />
-                    <Button Text="Add other"  HorizontalOptions="Center" />
+                    <Button 
+                        x:Name="Button1"
+                        Text="Button1 lol"  
+                        HorizontalOptions="Center" 
+                        Clicked="OnButton1Clicked"
+                        />
+                    
+                    <Button
+                        x:Name="Button2"
+                        Text="Button2 lol" 
+                        HorizontalOptions="Center" 
+                        />
+                    
+                    <Button 
+                        x:Name="Button3"
+                        Text="Button3 lol"  
+                        HorizontalOptions="Center"
+                        />
+                    
                 </StackLayout>
        
             </StackLayout>

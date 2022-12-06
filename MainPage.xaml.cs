@@ -2,16 +2,20 @@
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
+	/// <summary>
+	/// Handles the interactions between the contentpage and the code
+	/// Basically write code here
+	/// </summary>
 
 	public MainPage()
 	{
 		InitializeComponent();
 	}
 
-	/*
+    /*
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
+		int count = 0;
 		count++;
 
 		if (count == 1)
@@ -22,5 +26,17 @@ public partial class MainPage : ContentPage
 		SemanticScreenReader.Announce(CounterBtn.Text);
 	}
 	*/
+
+    private void OnButton1Clicked(object sender, EventArgs e)
+	{
+		/// <summary>
+		/// Click the first button and we go to the Page1
+		/// </summary>
+
+		Button1.Text = "clicked";
+
+        App.Current.MainPage = new NavigationPage(new Page1());
+
+    }
 }
 
