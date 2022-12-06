@@ -1,4 +1,4 @@
-﻿namespace iphone6moai;
+﻿namespace ID_App;
 
 public partial class MainPage : ContentPage
 {
@@ -9,6 +9,7 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
+	/*
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
 		count++;
@@ -20,5 +21,6 @@ public partial class MainPage : ContentPage
 
 		SemanticScreenReader.Announce(CounterBtn.Text);
 	}
+	*/
 }
 

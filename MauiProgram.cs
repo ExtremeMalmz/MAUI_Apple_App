@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace iphone6moai;
+namespace ID_App;
 
 public static class MauiProgram
 {

@@ -1,4 +1,4 @@
-﻿namespace iphone6moai;
+﻿namespace ID_App;
 
 public partial class App : Application
 {

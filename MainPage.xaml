@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="iphone6moai.MainPage">
+             x:Class="ID_App.MainPage">
 
     <ScrollView>
         <VerticalStackLayout
@@ -10,13 +10,13 @@
             VerticalOptions="Center">
 
             <Image
-                Source="dotnet_bot.png"
+                Source="am3ppl.jpg"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, World!"
+                Text="Welcome to the Group 1 App!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
@@ -28,12 +28,24 @@
                 FontSize="18"
                 HorizontalOptions="Center" />
 
+            <!--
             <Button
                 x:Name="CounterBtn"
                 Text="Click me"
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center" 
+                
+                />
+            -->
+
+            <StackLayout Margin="10,0,0,0" HorizontalOptions="Center">
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Add items"  HorizontalOptions="Center" />
+                    <Button Text="Add other"  HorizontalOptions="Center" />
+                </StackLayout>
+       
+            </StackLayout>
 
         </VerticalStackLayout>
     </ScrollView>
