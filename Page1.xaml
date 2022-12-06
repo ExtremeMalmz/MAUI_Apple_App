@@ -3,14 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.Page1"
              Title="Page1">
-              <Shell.TitleView>
-                <Grid>
-                    <Label Text="My Title" HorizontalOptions="Center" VerticalOptions="Center" />
-                </Grid> 
-              </Shell.TitleView>
-    
+   
     <VerticalStackLayout>
         <Label 
+            
             Text="Graphs here"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
