@@ -63,6 +63,4 @@ public partial class MainPage : ContentPage
         //change the page that is displayed
         Navigation.PushAsync(new Page3());
     }
-
 }
-

@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ID_App.MainPage">
-
+             x:Class="ID_App.MainPage"
+            
+             >
+    <!--BackgroundColor="Aqua"
+            -->
     <!--
     This is the main page of the application. There is a central image and three buttons currently
     -->
@@ -10,7 +13,10 @@
         <VerticalStackLayout
             Spacing="25"
             Padding="30,0"
-            VerticalOptions="Center">
+            VerticalOptions="Center"
+            
+            >
+            
 
             <Image
                 Source="am3ppl.jpg"
@@ -33,9 +39,11 @@
                 HorizontalOptions="Center" 
                 
                 />
+            
+            HAVE THE BUTTONS TOP DOWN! -benjamin
             -->
-
-            <StackLayout Margin="10,10,20,20"  HorizontalOptions="Center" >
+¨¨
+            <StackLayout Margin="10,10,20,20" HorizontalOptions="Center" >
                 <StackLayout Orientation="Horizontal">
                     <Button 
                         x:Name="Button1"
@@ -43,6 +51,8 @@
                         HorizontalOptions="Center"
                         BorderWidth="10"
                         Clicked="OnButton1Clicked"
+                        
+                        WidthRequest="200"
                         />
                     
                     <Button
@@ -51,6 +61,8 @@
                         HorizontalOptions="Center" 
                         BorderWidth="10"
                         Clicked="OnButton2Clicked"
+                        
+                        WidthRequest="200"
                         />
                     
                     <Button 
@@ -59,10 +71,13 @@
                         HorizontalOptions="Center"
                         BorderWidth="10"
                         Clicked="OnButton3Clicked"
+                        
+                        WidthRequest="200"
                         />
                     
                 </StackLayout>
        
+                
             </StackLayout>
 
         </VerticalStackLayout>
