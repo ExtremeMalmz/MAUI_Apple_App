@@ -42,7 +42,6 @@
             
             HAVE THE BUTTONS TOP DOWN! -benjamin
             -->
-¨¨
             <StackLayout Margin="10,10,20,20" HorizontalOptions="Center" >
                 <StackLayout Orientation="Horizontal">
                     <Button 
