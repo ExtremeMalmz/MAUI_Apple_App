@@ -45,38 +45,63 @@
             
             <Button 
                 x:Name="Button1"
-                Text="Button1 lol"  
+                Text="Hypothesis"  
                 HorizontalOptions="Center"
                 BorderWidth="10"
-                Clicked="OnButton1Clicked"
-                        
+                BorderColor="White"
                 WidthRequest="200"
+                
+                Clicked="OnButton1Clicked"
                 />
                     
             <Button
                 x:Name="Button2"
-                Text="Button2 lol" 
+                Text="Semester 1" 
                 HorizontalOptions="Center" 
                 BorderWidth="10"
-                Clicked="OnButton2Clicked"
-                        
+                BorderColor="White"
                 WidthRequest="200"
+                FontAttributes="Bold"
+                
+                Clicked="OnButton2Clicked"
                 />
                     
             <Button 
                 x:Name="Button3"
-                Text="Button3 lol"  
+                Text="Semester 2"  
                 HorizontalOptions="Center"
                 BorderWidth="10"
-                Clicked="OnButton3Clicked"
-                        
+                BorderColor="White"
                 WidthRequest="200"
-                />
-                    
-       
-       
+                FontAttributes="Bold"
                 
-       
+                Clicked="OnButton3Clicked"
+                />
+
+            <Button 
+                x:Name="Button4"
+                Text="Semester 3"  
+                HorizontalOptions="Center"
+                BorderWidth="10"
+                BorderColor="White"
+                WidthRequest="200"
+                FontAttributes="Bold"
+                
+                Clicked="OnButton4Clicked"
+                />
+
+            <Button 
+                x:Name="Button5"
+                Text="Conclusion"  
+                HorizontalOptions="Center"
+                BorderWidth="10"
+                BorderColor="White"
+                WidthRequest="200"
+                FontAttributes="Bold"
+                
+                Clicked="OnButton5Clicked"
+                />
+
         </VerticalStackLayout>
     </ScrollView>
 

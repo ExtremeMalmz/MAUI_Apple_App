@@ -14,6 +14,19 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
+	void ChangeButtonColor(Button theButton)
+	{
+        /// <summary>
+        /// Makes the buttons turn purple and red after clicking
+		/// @params (theButton) the button were sending in to be changed into these colors
+        /// </summary>
+
+        //change border color 
+        theButton.BorderColor = Colors.Purple;
+        //change text color
+        theButton.TextColor = Colors.Red;
+	}
+
     /*
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
@@ -32,35 +45,60 @@ public partial class MainPage : ContentPage
     private void OnButton1Clicked(object sender, EventArgs e)
 	{
 		/// <summary>
-		/// Click the first button and we go to the Page1
+		/// Click the first button and we go to the hypothesis
 		/// </summary>
-		
-		Button1.Text = "clicked";
 
-		//change the page that is displayed
+
+		ChangeButtonColor(Button1);
+
+		//change the page to hypothesis
 		//App.Current.MainPage = new NavigationPage(new Page1());
 		Navigation.PushAsync(new Page1());
     }
 
     private void OnButton2Clicked(object sender, EventArgs e)
     {
-		/// <summary>
-		/// Click the first button and we go to the Page1
-		/// </summary>
+        /// <summary>
+        /// Click the first button and we go to the first semester
+        /// </summary>
 
-		Button2.TextColor = Colors.Red;
+        ChangeButtonColor(Button2);
 
-        //change the page that is displayed
+        //change the page to semester 1
         Navigation.PushAsync(new Page2());
     }
 
     private void OnButton3Clicked(object sender, EventArgs e)
 	{
         /// <summary>
-        /// Click the first button and we go to the Page1
+        /// Click the first button and we go to the second semester
         /// </summary>
+
+        ChangeButtonColor(Button3);
 
         //change the page that is displayed
         Navigation.PushAsync(new Page3());
+    }
+
+    private void OnButton4Clicked(object sender, EventArgs e)
+    {
+        /// <summary>
+        /// Click the first button and we go to the third semester
+        /// </summary>
+
+        ChangeButtonColor(Button4);
+
+        Console.WriteLine("asa");
+    }
+
+    private void OnButton5Clicked(object sender, EventArgs e)
+    {
+        /// <summary>
+        /// Click the first button and we go to the conclusion
+        /// </summary>
+
+        ChangeButtonColor(Button5);
+
+        Console.WriteLine("asa");
     }
 }
