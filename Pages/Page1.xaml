@@ -14,8 +14,16 @@
             HorizontalOptions="Center" />
 
         <Image
-                Source="bild1.jpg"
+                Source="bild1.png"
+            HeightRequest="200"
+            
                  />
-        
+
+        <Label 
+            
+            Text="Graphs here 2"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
     </VerticalStackLayout>
 </ContentPage>
