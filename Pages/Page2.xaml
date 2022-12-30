@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.Pages.Page2"
-             Title="First semester">
+             Title="First Semester">
 
 
     <ScrollView 
@@ -31,10 +31,10 @@
 
             <Label
                 HorizontalTextAlignment ="Start"
-                Text="How many confirmed cases of COVID-19 were in Skåne during the fall semester according to folkhalsomyndigheten."    
+                Text="How many confirmed cases of COVID-19 were in Skåne during week 38 2021 till week 2 2022 according to folkhalsomyndigheten.&#10;Link to website: "    
                 Padding="20"
-                
             ></Label>
+            
 
             <Image
                 Source="covidfall_termin_ett.png"

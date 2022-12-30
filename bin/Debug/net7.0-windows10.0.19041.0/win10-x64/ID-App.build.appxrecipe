@@ -724,6 +724,12 @@
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_ett.scale-100.png">
       <PackagePath>covidfall_termin_ett.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_tre.scale-100.png">
+      <PackagePath>covidfall_termin_tre.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_tva.scale-100.png">
+      <PackagePath>covidfall_termin_tva.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>

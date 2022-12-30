@@ -269,3 +269,5 @@ C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\de
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\device-builds\iphone14.3-15.6\_ProcessedBundleResourcesPath.items
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\device-builds\iphone14.3-15.6\_ProcessedContentPath.items
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\resizetizer\r\Resources\covidfall_termin_ett.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\resizetizer\r\Resources\termin_tre.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-ios\ios-arm64\resizetizer\r\Resources\termin_tva.png
