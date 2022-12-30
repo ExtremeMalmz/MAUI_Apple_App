@@ -7,8 +7,21 @@
     
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            
+            Text="The Conclusion"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="32"
+            HorizontalOptions="Center" 
+            HorizontalTextAlignment="Center"
+            />
+
+        <Label
+                Text="Its a case to end all cases
+                &#10;
+                "
+                HorizontalTextAlignment="Center"
+                
+                Padding="20"
+                />
     </VerticalStackLayout>
 </ContentPage>

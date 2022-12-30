@@ -55,6 +55,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\Bild1.png" />
+	  <None Remove="Resources\Images\covidfall_termin_tre.png" />
 	</ItemGroup>
 
 	<ItemGroup>

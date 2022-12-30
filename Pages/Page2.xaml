@@ -31,7 +31,7 @@
 
             <Label
                 HorizontalTextAlignment ="Start"
-                Text="How many confirmed cases of COVID-19 were in Skåne during week 38 2021 till week 2 2022 according to folkhalsomyndigheten.&#10;Link to website: "    
+                Text="How many confirmed cases of COVID-19 were in Skåne during week 38 2021 till week 2 2022 according to folkhalsomyndigheten."    
                 Padding="20"
             ></Label>
             

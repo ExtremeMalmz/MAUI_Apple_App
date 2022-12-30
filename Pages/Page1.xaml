@@ -3,8 +3,48 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.Page1"
              Title="Hypothesis"
-                        
              >
 
-    
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label
+                Text="Introduction"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                />
+
+            <Label
+                Text="This is a project for the course Information Design in the Information Architecture program at Malmö University.
+                
+                &#10;&#10;The goal of the project is to compare the amount of students in a lecture of a course in the Information Architect program.
+                
+                &#10;&#10;with the spread of the COVID-19 virus in the Swedish municipalty of Skåne, where Malmö University is located
+                
+                &#10;&#10;Data only exists for three semesters, but those semesters have diffrent qualities to them. The first semester was conducted mostly online, the second semester was a mix of online and in person,
+                &#10;and the third semester was almost entirely in person."
+                HorizontalTextAlignment="Center"
+                
+                Padding="20"
+                />
+
+            <Label
+                Text="The Hypothesis"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                />
+
+            <Label
+                Text="T"
+                HorizontalTextAlignment="Center"
+                
+                Padding="20"
+                />
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

@@ -5,14 +5,13 @@
              Title="Second Semester"
              BackgroundColor="DarkSeaGreen"
              >
-    
+
 
     <ScrollView 
         Orientation="Both" 
         HorizontalScrollBarVisibility="Always"
         >
-
-
+        
         <StackLayout
             Spacing="-130"
             >
@@ -26,9 +25,9 @@
 
             <Image
                 Source="termin_tva.png"
-                WidthRequest="3000"
+                WidthRequest="6000"
                 HeightRequest="700"
-                HorizontalOptions="Start"
+                HorizontalOptions="StartAndExpand"
                 Margin="20"
             />
 

@@ -17,17 +17,13 @@
             <!-- &#10; is new line-->
             <Label
                 HorizontalTextAlignment ="Start"
-                Text="How many students were in the second (fall) semester of university.&#10;OPOM = Objektorienterad Programmering Och Modellering !!! IBS = Information Bortom Skärmar !!! W = Webbtjänster !!!ID = Informationsdesign"
+                Text="How many students were in the second (fall) semester of university.&#10;OPOM = Objektorienterad Programmering Och Modellering , IBS = Information Bortom Skärmar , W = Webbtjänster , ID = Informationsdesign"
                 Padding="20"
             ></Label>
 
-            <Label 
-             VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-
             <Image
                 Source="termin_tre.png"
-                WidthRequest="7000"
+                WidthRequest="10000"
                 HeightRequest="700"
                 HorizontalOptions="StartAndExpand"
                 Margin="20"

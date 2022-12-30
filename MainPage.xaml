@@ -28,20 +28,9 @@
                 Text="Welcome to the Group 1 App!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
-                HorizontalOptions="Center" />
-
-            <!--
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
                 HorizontalOptions="Center" 
-                
+                HorizontalTextAlignment="Center"
                 />
-            
-            HAVE THE BUTTONS TOP DOWN! -benjamin
-            -->
             
             <Button 
                 x:Name="Button1"

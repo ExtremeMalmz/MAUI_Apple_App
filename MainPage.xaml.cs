@@ -12,14 +12,14 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
-	}
-
-	private void ChangeButtonColor(Button theButton)
+    }
+    /// <summary>
+    /// Makes the buttons turn purple and red after clicking
+	/// @params (theButton) the button were sending in to be changed into these colors
+    /// </summary>
+	private static void ChangeButtonColor(Button theButton)
 	{
-        /// <summary>
-        /// Makes the buttons turn purple and red after clicking
-		/// @params (theButton) the button were sending in to be changed into these colors
-        /// </summary>
+        
 
         //change border color 
         theButton.BorderColor = Colors.Purple;
@@ -42,13 +42,11 @@ public partial class MainPage : ContentPage
 	}
 	*/
 
+    /// <summary>
+    /// Click the first button and we go to the hypothesis
+    /// </summary>
     private void OnButton1Clicked(object sender, EventArgs e)
 	{
-		/// <summary>
-		/// Click the first button and we go to the hypothesis
-		/// </summary>
-
-
 		ChangeButtonColor(Button1);
 
 		//change the page to hypothesis
@@ -56,11 +54,12 @@ public partial class MainPage : ContentPage
 		Navigation.PushAsync(new Page1());
     }
 
+    /// <summary>
+    /// Click the first button and we go to the first semester
+    /// </summary>
     private void OnButton2Clicked(object sender, EventArgs e)
     {
-        /// <summary>
-        /// Click the first button and we go to the first semester
-        /// </summary>
+        
 
         ChangeButtonColor(Button2);
 
@@ -68,11 +67,12 @@ public partial class MainPage : ContentPage
         Navigation.PushAsync(new Page2());
     }
 
+    /// <summary>
+    /// Click the first button and we go to the second semester
+    /// </summary>
     private void OnButton3Clicked(object sender, EventArgs e)
 	{
-        /// <summary>
-        /// Click the first button and we go to the second semester
-        /// </summary>
+       
 
         ChangeButtonColor(Button3);
 
@@ -80,22 +80,24 @@ public partial class MainPage : ContentPage
         Navigation.PushAsync(new Page3());
     }
 
+    /// <summary>
+    /// Click the first button and we go to the third semester
+    /// </summary>
     private void OnButton4Clicked(object sender, EventArgs e)
     {
-        /// <summary>
-        /// Click the first button and we go to the third semester
-        /// </summary>
+        
 
         ChangeButtonColor(Button4);
 
         Navigation.PushAsync(new Page4());
     }
 
+    /// <summary>
+    /// Click the first button and we go to the conclusion
+    /// </summary>
     private void OnButton5Clicked(object sender, EventArgs e)
     {
-        /// <summary>
-        /// Click the first button and we go to the conclusion
-        /// </summary>
+       
 
         ChangeButtonColor(Button5);
 
