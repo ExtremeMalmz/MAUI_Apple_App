@@ -49,12 +49,14 @@
                 WidthRequest="3000"
                 HeightRequest="700"
                 HorizontalOptions="Start"
+                Margin="20"
             />
 
             <Label
                 HorizontalTextAlignment ="Start"
                 Text="How many confirmed cases of COVID-19 were in Skåne during the fall semester according to folkhalsomyndigheten."    
-                Padding="40"
+                Padding="20"
+                
             ></Label>
 
             <Image
@@ -62,8 +64,8 @@
                 WidthRequest="1000"
                 HeightRequest="500"
                 HorizontalOptions="Start"
-                
-            />
+                Margin="20"
+                />
         </StackLayout>
     </ScrollView>
 </ContentPage>

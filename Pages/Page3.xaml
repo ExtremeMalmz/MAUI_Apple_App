@@ -19,7 +19,7 @@
                 HorizontalOptions="Center" />
 
         <Label 
-            Text="Welcome to .NET MAUIaaaa!"
+            Text="OPOM = Objektorienterad Programmering Och Modellering !!! IBS = Information Bortom Skärmar !!! W = Webbtjänster !!!ID = Informationsdesign"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

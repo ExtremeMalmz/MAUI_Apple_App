@@ -50,6 +50,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = ID_App.Pages.Page3.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Page3.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Page3.xaml
 
+[C:/Users/ericm/Documents/GitHub/MAUI_Apple_App/Pages/Page4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ID_App.Pages.Page4.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Page4.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Page4.xaml
+
+[C:/Users/ericm/Documents/GitHub/MAUI_Apple_App/Pages/Page5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ID_App.Pages.Page5.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Page5.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Page5.xaml
+
 [C:/Users/ericm/Documents/GitHub/MAUI_Apple_App/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ID_App.Resources.Styles.Colors.xaml
