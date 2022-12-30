@@ -1,8 +1,8 @@
 namespace ID_App.Pages;
 
-public partial class NewPage1 : ContentPage
+public partial class Page4 : ContentPage
 {
-	public NewPage1()
+	public Page4()
 	{
 		InitializeComponent();
 	}

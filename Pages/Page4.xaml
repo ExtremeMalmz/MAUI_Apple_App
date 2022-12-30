@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ID_App.Pages.NewPage1"
-             Title="NewPage1">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
+             x:Class="ID_App.Pages.Page4"
+             Title="Third Semester">
+    
+    <ScrollView 
+        Orientation="Both" 
+        HorizontalScrollBarVisibility="Always"
+        >
+
+
+        <StackLayout
+            Spacing="-130"
+            >
+
+            <!-- &#10; is new line-->
+            <Label
+                HorizontalTextAlignment ="Start"
+                Text="How many students were in the second (fall) semester of university.&#10;OPOM = Objektorienterad Programmering Och Modellering !!! IBS = Information Bortom Skärmar !!! W = Webbtjänster !!!ID = Informationsdesign"
+                Padding="20"
+            ></Label>
+
+            <Label 
+             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-    </VerticalStackLayout>
+
+            <Image
+                Source="termin_tre.png"
+                WidthRequest="3000"
+                HeightRequest="700"
+                HorizontalOptions="Start"
+                Margin="20"
+            />
+
+            <Label
+                HorizontalTextAlignment ="Start"
+                Text="How many confirmed cases of COVID-19 were in Skåne during the fall semester according to folkhalsomyndigheten."    
+                Padding="20"
+                
+            ></Label>
+
+            <Image
+                Source="termin_tva.png"
+                WidthRequest="1000"
+                HeightRequest="500"
+                HorizontalOptions="Start"
+                Margin="20"
+                />
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

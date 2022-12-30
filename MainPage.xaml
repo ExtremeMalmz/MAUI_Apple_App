@@ -50,6 +50,7 @@
                 BorderWidth="10"
                 BorderColor="White"
                 WidthRequest="200"
+                FontAttributes="Bold"
                 
                 Clicked="OnButton1Clicked"
                 />

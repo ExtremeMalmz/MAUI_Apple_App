@@ -889,6 +889,12 @@
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\termin_ett.scale-100.png">
       <PackagePath>termin_ett.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\termin_tre.scale-100.png">
+      <PackagePath>termin_tre.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\termin_tva.scale-100.png">
+      <PackagePath>termin_tva.scale-100.png</PackagePath>
+    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\ericm\.nuget\packages\microsoft.windowsappsdk\1.1.5\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">

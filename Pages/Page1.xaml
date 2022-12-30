@@ -5,67 +5,6 @@
              Title="Page1"
                         
              >
- <!--
-    <VerticalStackLayout>
-        <Label 
-            
-            Text="Graphs here"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
 
-        <Image
-                Source="termin_ett.png"
-                
-            
-                 />
-
-        <Label 
-            
-            Text="Graphs here 2"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-
-    </VerticalStackLayout>
--->
-
-    <ScrollView 
-        Orientation="Both" 
-        HorizontalScrollBarVisibility="Always"
-        >
-
-
-        <StackLayout
-            Spacing="-130"
-            >
-
-            <Label
-                HorizontalTextAlignment ="Start"
-                Text="How many students were in the first (fall) semester of university."    
-                Padding="20"
-            ></Label>
-
-            <Image
-                Source="termin_ett.png"
-                WidthRequest="3000"
-                HeightRequest="700"
-                HorizontalOptions="Start"
-                Margin="20"
-            />
-
-            <Label
-                HorizontalTextAlignment ="Start"
-                Text="How many confirmed cases of COVID-19 were in Skåne during the fall semester according to folkhalsomyndigheten."    
-                Padding="20"
-                
-            ></Label>
-
-            <Image
-                Source="covidfall_termin_ett.png"
-                WidthRequest="1000"
-                HeightRequest="500"
-                HorizontalOptions="Start"
-                Margin="20"
-                />
-        </StackLayout>
-    </ScrollView>
+    
 </ContentPage>

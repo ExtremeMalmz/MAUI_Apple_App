@@ -14,7 +14,7 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
-	void ChangeButtonColor(Button theButton)
+	private void ChangeButtonColor(Button theButton)
 	{
         /// <summary>
         /// Makes the buttons turn purple and red after clicking
@@ -88,7 +88,7 @@ public partial class MainPage : ContentPage
 
         ChangeButtonColor(Button4);
 
-        Console.WriteLine("asa");
+        Navigation.PushAsync(new Page4());
     }
 
     private void OnButton5Clicked(object sender, EventArgs e)
@@ -99,6 +99,6 @@ public partial class MainPage : ContentPage
 
         ChangeButtonColor(Button5);
 
-        Console.WriteLine("asa");
+        Navigation.PushAsync(new Page5());
     }
 }
