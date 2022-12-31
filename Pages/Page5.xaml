@@ -17,8 +17,12 @@
             />
 
         <Label
-            Text="Its a case to end all cases
-            &#10;
+            Text="In the first semester there was a small difference between the amount of students attending lectures
+            &#10;which correlates with the spread of COVID-19 going from about ca. 13,000 to ca. 18,000 in the time period.
+            &#10;The course which stands out is the last course of the semester, Interaktiondesign which saw a gradual
+            &#10;decrease of people attending, this correlates with the spread of COVID-19 increasing.
+            
+            &#10;&#10;The second semester
             "
             HorizontalTextAlignment="Center"
                 

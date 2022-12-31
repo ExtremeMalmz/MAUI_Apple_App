@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-31T13:06:48.741</Modified>
+      <Modified>2022-12-31T13:46:13.776</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-12-31T13:06:48.224</Modified>
+      <Modified>2022-12-31T13:46:13.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.runtimeconfig.json">
       <PackagePath>ID-App.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.dll">
       <PackagePath>ID-App.dll</PackagePath>
-      <Modified>2022-12-31T13:06:47.345</Modified>
+      <Modified>2022-12-31T13:46:12.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ID-App.exe</PackagePath>
-      <Modified>2022-12-31T13:06:47.362</Modified>
+      <Modified>2022-12-31T13:46:12.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.0\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -908,7 +908,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ID-App.deps.json">
       <PackagePath>ID-App.deps.json</PackagePath>
-      <Modified>2022-12-31T13:06:48.615</Modified>
+      <Modified>2022-12-31T13:46:13.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.49\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -968,35 +968,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_ett.scale-100.png">
       <PackagePath>covidfall_termin_ett.scale-100.png</PackagePath>
-      <Modified>2022-12-29T22:05:05.206</Modified>
+      <Modified>2022-12-31T13:45:51.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_tre.scale-100.png">
       <PackagePath>covidfall_termin_tre.scale-100.png</PackagePath>
-      <Modified>2022-12-30T19:52:53.883</Modified>
+      <Modified>2022-12-31T13:30:14.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\covidfall_termin_tva.scale-100.png">
       <PackagePath>covidfall_termin_tva.scale-100.png</PackagePath>
-      <Modified>2022-12-30T19:51:33.986</Modified>
+      <Modified>2022-12-31T13:29:18.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.976</Modified>
+      <Modified>2022-12-31T13:36:23.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.983</Modified>
+      <Modified>2022-12-31T13:36:23.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.993</Modified>
+      <Modified>2022-12-31T13:36:23.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.007</Modified>
+      <Modified>2022-12-31T13:36:23.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.041</Modified>
+      <Modified>2022-12-31T13:36:23.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\funnycat123567.scale-100.png">
       <PackagePath>funnycat123567.scale-100.png</PackagePath>
@@ -1004,187 +1004,187 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moai.ico">
       <PackagePath>moai.ico</PackagePath>
-      <Modified>2022-12-31T13:06:46.974</Modified>
+      <Modified>2022-12-31T13:46:12.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLargeTile.scale-100.png">
       <PackagePath>moaiLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.136</Modified>
+      <Modified>2022-12-31T13:46:12.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLargeTile.scale-125.png">
       <PackagePath>moaiLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.144</Modified>
+      <Modified>2022-12-31T13:46:12.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLargeTile.scale-150.png">
       <PackagePath>moaiLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.154</Modified>
+      <Modified>2022-12-31T13:46:12.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLargeTile.scale-200.png">
       <PackagePath>moaiLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.169</Modified>
+      <Modified>2022-12-31T13:46:12.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLargeTile.scale-400.png">
       <PackagePath>moaiLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.222</Modified>
+      <Modified>2022-12-31T13:46:12.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>moaiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.012</Modified>
+      <Modified>2022-12-31T13:46:12.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>moaiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.013</Modified>
+      <Modified>2022-12-31T13:46:12.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>moaiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.021</Modified>
+      <Modified>2022-12-31T13:46:12.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>moaiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.015</Modified>
+      <Modified>2022-12-31T13:46:12.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>moaiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.017</Modified>
+      <Modified>2022-12-31T13:46:12.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-unplated_targetsize-16.png">
       <PackagePath>moaiLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.002</Modified>
+      <Modified>2022-12-31T13:46:12.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-unplated_targetsize-24.png">
       <PackagePath>moaiLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.003</Modified>
+      <Modified>2022-12-31T13:46:12.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-unplated_targetsize-256.png">
       <PackagePath>moaiLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.011</Modified>
+      <Modified>2022-12-31T13:46:12.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-unplated_targetsize-32.png">
       <PackagePath>moaiLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.004</Modified>
+      <Modified>2022-12-31T13:46:12.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.altform-unplated_targetsize-48.png">
       <PackagePath>moaiLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.006</Modified>
+      <Modified>2022-12-31T13:46:12.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.scale-100.png">
       <PackagePath>moaiLogo.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.980</Modified>
+      <Modified>2022-12-31T13:46:12.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.scale-125.png">
       <PackagePath>moaiLogo.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.982</Modified>
+      <Modified>2022-12-31T13:46:12.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.scale-150.png">
       <PackagePath>moaiLogo.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.984</Modified>
+      <Modified>2022-12-31T13:46:12.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.scale-200.png">
       <PackagePath>moaiLogo.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.986</Modified>
+      <Modified>2022-12-31T13:46:12.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.scale-400.png">
       <PackagePath>moaiLogo.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.989</Modified>
+      <Modified>2022-12-31T13:46:12.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.targetsize-16.png">
       <PackagePath>moaiLogo.targetsize-16.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.991</Modified>
+      <Modified>2022-12-31T13:46:12.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.targetsize-24.png">
       <PackagePath>moaiLogo.targetsize-24.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.992</Modified>
+      <Modified>2022-12-31T13:46:12.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.targetsize-256.png">
       <PackagePath>moaiLogo.targetsize-256.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.001</Modified>
+      <Modified>2022-12-31T13:46:12.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.targetsize-32.png">
       <PackagePath>moaiLogo.targetsize-32.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.994</Modified>
+      <Modified>2022-12-31T13:46:12.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiLogo.targetsize-48.png">
       <PackagePath>moaiLogo.targetsize-48.png</PackagePath>
-      <Modified>2022-12-31T13:06:46.996</Modified>
+      <Modified>2022-12-31T13:46:12.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiMediumTile.scale-100.png">
       <PackagePath>moaiMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.048</Modified>
+      <Modified>2022-12-31T13:46:12.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiMediumTile.scale-125.png">
       <PackagePath>moaiMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.051</Modified>
+      <Modified>2022-12-31T13:46:12.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiMediumTile.scale-150.png">
       <PackagePath>moaiMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.056</Modified>
+      <Modified>2022-12-31T13:46:12.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiMediumTile.scale-200.png">
       <PackagePath>moaiMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.062</Modified>
+      <Modified>2022-12-31T13:46:12.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiMediumTile.scale-400.png">
       <PackagePath>moaiMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.077</Modified>
+      <Modified>2022-12-31T13:46:12.548</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiSmallTile.scale-100.png">
       <PackagePath>moaiSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.033</Modified>
+      <Modified>2022-12-31T13:46:12.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiSmallTile.scale-125.png">
       <PackagePath>moaiSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.035</Modified>
+      <Modified>2022-12-31T13:46:12.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiSmallTile.scale-150.png">
       <PackagePath>moaiSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.037</Modified>
+      <Modified>2022-12-31T13:46:12.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiSmallTile.scale-200.png">
       <PackagePath>moaiSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.040</Modified>
+      <Modified>2022-12-31T13:46:12.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiSmallTile.scale-400.png">
       <PackagePath>moaiSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.045</Modified>
+      <Modified>2022-12-31T13:46:12.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiStoreLogo.scale-100.png">
       <PackagePath>moaiStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.022</Modified>
+      <Modified>2022-12-31T13:46:12.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiStoreLogo.scale-125.png">
       <PackagePath>moaiStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.025</Modified>
+      <Modified>2022-12-31T13:46:12.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiStoreLogo.scale-150.png">
       <PackagePath>moaiStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.026</Modified>
+      <Modified>2022-12-31T13:46:12.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiStoreLogo.scale-200.png">
       <PackagePath>moaiStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.028</Modified>
+      <Modified>2022-12-31T13:46:12.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiStoreLogo.scale-400.png">
       <PackagePath>moaiStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.032</Modified>
+      <Modified>2022-12-31T13:46:12.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiWideTile.scale-100.png">
       <PackagePath>moaiWideTile.scale-100.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.081</Modified>
+      <Modified>2022-12-31T13:46:12.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiWideTile.scale-125.png">
       <PackagePath>moaiWideTile.scale-125.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.086</Modified>
+      <Modified>2022-12-31T13:46:12.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiWideTile.scale-150.png">
       <PackagePath>moaiWideTile.scale-150.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.092</Modified>
+      <Modified>2022-12-31T13:46:12.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiWideTile.scale-200.png">
       <PackagePath>moaiWideTile.scale-200.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.101</Modified>
+      <Modified>2022-12-31T13:46:12.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\moaiWideTile.scale-400.png">
       <PackagePath>moaiWideTile.scale-400.png</PackagePath>
-      <Modified>2022-12-31T13:06:47.129</Modified>
+      <Modified>2022-12-31T13:46:12.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\termin_ett.scale-100.png">
       <PackagePath>termin_ett.scale-100.png</PackagePath>
