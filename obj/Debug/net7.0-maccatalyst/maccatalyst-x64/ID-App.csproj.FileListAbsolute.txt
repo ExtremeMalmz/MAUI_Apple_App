@@ -38,3 +38,9 @@ C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\macc
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ID-App.AssemblyInfoInputs.cache
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ID-App.AssemblyInfo.cs
 C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ID-App.csproj.CoreCompileInputs.cache
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\covidfall_termin_ett.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\covidfall_termin_tre.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\covidfall_termin_tva.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\termin_ett.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\termin_tre.png
+C:\Users\ericm\Documents\GitHub\MAUI_Apple_App\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\termin_tva.png

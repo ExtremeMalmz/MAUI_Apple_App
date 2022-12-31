@@ -25,7 +25,7 @@
 
             <Image
                 Source="termin_tva.png"
-                WidthRequest="6000"
+                WidthRequest="5000"
                 HeightRequest="700"
                 HorizontalOptions="StartAndExpand"
                 Margin="20"

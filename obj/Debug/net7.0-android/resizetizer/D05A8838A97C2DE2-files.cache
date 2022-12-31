@@ -1,6 +1,12 @@
 ﻿obj\Debug\net7.0-android\resizetizer\r\drawable\am3ppl.jpg
 obj\Debug\net7.0-android\resizetizer\r\drawable\bild1.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\covidfall_termin_ett.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\covidfall_termin_tre.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\covidfall_termin_tva.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\funnycat123567.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\termin_ett.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\termin_tre.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\termin_tva.png
 obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\splash.png
 obj\Debug\net7.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png

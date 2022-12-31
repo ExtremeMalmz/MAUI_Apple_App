@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.Pages.Page5"
+             Background="purple"
              Title="Conclusion"
              >
     
@@ -16,12 +17,15 @@
             />
 
         <Label
-                Text="Its a case to end all cases
-                &#10;
-                "
-                HorizontalTextAlignment="Center"
+            Text="Its a case to end all cases
+            &#10;
+            "
+            HorizontalTextAlignment="Center"
                 
-                Padding="20"
-                />
+            Padding="20"
+            />
+
+        
+        
     </VerticalStackLayout>
 </ContentPage>

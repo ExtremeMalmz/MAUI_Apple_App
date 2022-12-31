@@ -1,9 +1,13 @@
-namespace ID_App;
+using System.Windows.Input;
 
+namespace ID_App;
 public partial class Page1 : ContentPage
 {
-	public Page1()
-	{
-		InitializeComponent();
-	}
+
+
+    public Page1()
+    {
+        InitializeComponent();
+    }
+
 }

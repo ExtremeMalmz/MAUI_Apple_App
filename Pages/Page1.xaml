@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ID_App.Page1"
+             Background="Brown"
              Title="Hypothesis"
              >
 
@@ -21,10 +22,11 @@
                 
                 &#10;&#10;The goal of the project is to compare the amount of students in a lecture of a course in the Information Architect program.
                 
-                &#10;&#10;with the spread of the COVID-19 virus in the Swedish municipalty of Skåne, where Malmö University is located
+                &#10;&#10;with the spread of the COVID-19 virus in the Swedish municipalty of Skåne, where Malmö University is located.
                 
                 &#10;&#10;Data only exists for three semesters, but those semesters have diffrent qualities to them. The first semester was conducted mostly online, the second semester was a mix of online and in person,
-                &#10;and the third semester was almost entirely in person."
+                &#10;and the third semester was almost entirely in person.
+                "
                 HorizontalTextAlignment="Center"
                 
                 Padding="20"
@@ -39,11 +41,17 @@
                 />
 
             <Label
-                Text="T"
+                Text="Our hypothesis is that if the amount of COVID-19 cases increases the amount of students should decrease.
+                
+                &#10;&#10;The amount of students should decrease more rapidly if the lectures/etc. are in person as the risk of infection is present while during a meeting over the internet it is not.
+                "
                 HorizontalTextAlignment="Center"
                 
                 Padding="20"
                 />
+
+   
+
 
         </VerticalStackLayout>
     </ScrollView>
