@@ -34,7 +34,7 @@
             
             <Button 
                 x:Name="Button1"
-                Text="Hypothesis"  
+                Text="Introduction"  
                 HorizontalOptions="Center"
                 BorderWidth="10"
                 BorderColor="White"
