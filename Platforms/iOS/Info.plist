@@ -28,5 +28,7 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/moai.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.informationdesign.ios</string>
 </dict>
 </plist>

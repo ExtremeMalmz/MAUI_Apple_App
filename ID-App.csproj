@@ -32,7 +32,7 @@
 
 	<PropertyGroup Condition="'$(TargetFramework)'=='net7.0-ios'">
 	  <CodesignKey>Apple Development: Created via API (Z7B8223K6M)</CodesignKey>
-	  <CodesignProvision>VS: WildCard Development</CodesignProvision>
+	  <CodesignProvision>VS: com.informationdesign.ios Development</CodesignProvision>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -79,5 +79,15 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
+
+	<PropertyGroup Condition="$(TargetFramework.Contains('ios')) and '$(Configuration)' == 'Release'">
+		<RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
+		<!--theres stuff for entitlements.plist in the video!!! SET BUILD CONFIGURATION TO RELEASE!-->
+
+		<CodesignKey>Apple Distribution: Eric Malmstrom (Z7B8223K6M)</CodesignKey>
+		<!--Remember that thing provisioning profile name in step 3?-->
+		<CodesignProvision></CodesignProvision>
+		
+	</PropertyGroup>
 
 </Project>

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net7.0-ios</ActiveDebugFramework>
-    <ActiveDebugProfile>Eric's Andromeda 13</ActiveDebugProfile>
+    <ActiveDebugProfile>Local Device</ActiveDebugProfile>
     <SelectedPlatformGroup>LocalDevice</SelectedPlatformGroup>
     <DeveloperId>Z7B8223K6M</DeveloperId>
     <DevelopmentTeamId>Z7B8223K6M</DevelopmentTeamId>
