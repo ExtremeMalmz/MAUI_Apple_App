@@ -12,7 +12,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>ID-IA App</ApplicationTitle>
+		<ApplicationTitle>IDIA EMAO</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.id_app</ApplicationId>

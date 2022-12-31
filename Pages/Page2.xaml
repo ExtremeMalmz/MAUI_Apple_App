@@ -32,7 +32,8 @@
 
             <Label
                 HorizontalTextAlignment ="Start"
-                Text="How many confirmed cases of COVID-19 were in Skåne during week 38 2021 according to folkhalsomyndigheten. The semester ended at week 2 2022. Total confirmed COVID-19 cases at the semesters end were: 214,943."    
+                Text="How many confirmed cases of COVID-19 were in Skåne during week 38 2021 according to folkhalsomyndigheten. The semester ended at week 2 2022. 
+                &#10;Total confirmed COVID-19 cases at the start and end of semesters end were: 164,202 to 214,943."    
                 Padding="20"
             ></Label>
             

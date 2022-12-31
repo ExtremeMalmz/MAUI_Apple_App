@@ -5,31 +5,110 @@
              Background="purple"
              Title="Conclusion"
              >
-    
-    <VerticalStackLayout>
-        <Label 
-            
-            Text="The Conclusion"
-            SemanticProperties.HeadingLevel="Level1"
-            FontSize="32"
-            HorizontalOptions="Center" 
-            HorizontalTextAlignment="Center"
-            />
 
-        <Label
-            Text="In the first semester there was a small difference between the amount of students attending lectures
-            &#10;which correlates with the spread of COVID-19 going from about ca. 13,000 to ca. 18,000 in the time period.
-            &#10;The course which stands out is the last course of the semester, Interaktiondesign which saw a gradual
-            &#10;decrease of people attending, this correlates with the spread of COVID-19 increasing.
+    <ScrollView
+        Orientation="Vertical">
+        <VerticalStackLayout>
+            <Label 
             
-            &#10;&#10;The second semester
-            "
-            HorizontalTextAlignment="Center"
+                Text="Summarizing the Semesters"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                />
+
+            <Label 
+                Text="&#10;Semester 1"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="25"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                TextColor="Orange"
+                />
+
+            <Label
+                Text="At the start of the first semester the infection rates for COVID-19 were miniscule, this changed during
+                &#10;the end of the semester when the infection rate increased rapidly. This semester was mostly online.
                 
-            Padding="20"
-            />
+                &#10;&#10;At the start of the semester the amount of students attending university were constant or increasing.
+                &#10;This changed with the course Interaktiondesign where the amount of students gradually decreased.
+                "
+                
+                HorizontalTextAlignment="Center"
+                Padding="20"
+                />
 
-        
-        
-    </VerticalStackLayout>
+            <Label 
+                Text="&#10;Semester 2"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="25"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                TextColor="DarkSeaGreen"
+                />
+
+            <Label
+                Text="The second semester started with a large increase in the amount of COVID-19 cases. Which mellowed out towards
+                &#10;the end of the semester. At the start of the semester most of the lectures were mostly in person.
+                
+                &#10;&#10;Large drops of students are seen in this semester. In the course Databasteknik the starting amount of
+                &#10;students was 74 while at the last lecture (Föreläsning 12) only around 30 students are present. 
+                &#10;This is also seen in the IFA course which the amount of students halved from start to finish.
+                "
+                
+                HorizontalTextAlignment="Center"
+                Padding="20"
+                />
+
+            <Label 
+                Text="&#10;Semester 3"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="25"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                TextColor="lightblue"
+                />
+            
+            <Label
+                Text="In the third semester the amount of COVID-19 cases were low.At the start of the semester nearly all of the lectures were in person.
+                
+                &#10;&#10;Even though the classes were in person and the COVID-19 infection rate was low the amount of students
+                &#10;attending lectures decreased during the duration of the semester.
+                &#10;In the IBS (Information Bortom Skärmar) course the amount of students started at 21 but dropped to around 3 at the final lecture,
+                &#10;although at the mandatory presentation the amount of students shot up to 22. In the course W (Webbtjänster) the amount of students halved from the introduction to the last lecture. 
+                &#10;In the course which this project was made (ID-Information Design) the amount of students started at 23 
+                &#10;and had 7 students at the last lecture, with the previous meeting having only 2-3 students.
+                "
+                
+                HorizontalTextAlignment="Center"
+                Padding="20"
+                />
+
+            <Label 
+                Text="The Conclusion of the Story"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                />
+
+            <Label
+                Text="The correlation between students and the infection cases for COVID-19 proved correct during the first two semesters.
+                &#10;In the third semester we see a gradual decrease of student participation even though the amount of COVID-19 cases
+                &#10;remains constant. This could be attributed to burnout or a sense of being able to complete things at home
+                &#10;without the need for in person lectures. In other words the third semester is an outlier, as of now. If the third
+                &#10;semester is an outlier can only be determined when data has been recorded in the future semesters.
+                
+                &#10;&#10;Thank you for downloading the app and reading the content -Eric Malmström
+                "
+                
+                HorizontalTextAlignment="Center"
+                Padding="20"
+                />
+
+
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

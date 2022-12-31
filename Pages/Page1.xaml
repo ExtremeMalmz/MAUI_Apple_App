@@ -33,7 +33,7 @@
                 />
 
             <Label
-                Text="The Hypothesis"
+                Text="The Story"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" 
@@ -41,9 +41,9 @@
                 />
 
             <Label
-                Text="Our hypothesis is that if the amount of COVID-19 cases increases the amount of students should decrease.
+                Text="Our story is that the amount of students correlates with the amount of infection cases with COVID-19
                 
-                &#10;&#10;The amount of students should decrease more rapidly if the lectures/etc. are in person as the risk of infection is present while during a meeting over the internet it is not.
+                &#10;&#10;The amount of students should decrease more rapidly if the lectures/etc are in person as the risk of infection is present while during a meeting over the internet it is not.
                 "
                 HorizontalTextAlignment="Center"
                 
