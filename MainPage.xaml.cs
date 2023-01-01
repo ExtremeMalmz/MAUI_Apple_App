@@ -85,8 +85,6 @@ public partial class MainPage : ContentPage
     /// </summary>
     private void OnButton4Clicked(object sender, EventArgs e)
     {
-        
-
         ChangeButtonColor(Button4);
 
         Navigation.PushAsync(new Page4());
@@ -97,8 +95,6 @@ public partial class MainPage : ContentPage
     /// </summary>
     private void OnButton5Clicked(object sender, EventArgs e)
     {
-       
-
         ChangeButtonColor(Button5);
 
         Navigation.PushAsync(new Page5());

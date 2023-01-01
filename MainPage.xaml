@@ -19,7 +19,7 @@
             
 
             <Image
-                Source="am3ppl.jpg"
+                Source="funnycat123567.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
