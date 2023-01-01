@@ -15,7 +15,7 @@
 		<ApplicationTitle>IDIA EMAO</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.id_app</ApplicationId>
+		<ApplicationId>com.informationdesign.ios</ApplicationId>
 		<ApplicationIdGuid>8c81bd22-e00d-47bc-b305-19f31e4633c8</ApplicationIdGuid>
 
 		<!-- Versions -->
@@ -84,9 +84,9 @@
 		<RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
 		<!--theres stuff for entitlements.plist in the video!!! SET BUILD CONFIGURATION TO RELEASE!-->
 
-		<CodesignKey>Apple Distribution: Eric Malmstrom (Z7B8223K6M)</CodesignKey>
+		<CodesignKey>Apple Distribution: Eric Malmstrom (35AYU9H67Q)</CodesignKey>
 		<!--Remember that thing provisioning profile name in step 3?-->
-		<CodesignProvision></CodesignProvision>
+		<CodesignProvision>IDProject</CodesignProvision>
 		
 	</PropertyGroup>
 
