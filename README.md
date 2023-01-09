@@ -14,3 +14,11 @@ If you have one upload your developer certificate to "tools -> Xamarin -> Apple 
 to make it work.
 
 Thank you for downloading the ID-IA app.
+
+
+*** IF YOU ARE HERE FOR THE INFORMATION***
+The main page is MainPage.xaml, but only contains links to other pages
+
+Follow these steps to get to those pages:
+Click on the folder "Pages" and then click on the files which have end in .XAML
+All information is located on files which end in .XAML
