@@ -1,4 +1,4 @@
-Project for Information Design. Simple app to display information
+Project for Information Design. App to display information
 
 Hello and welcome to the app here are the steps to get this working on your machine
 
